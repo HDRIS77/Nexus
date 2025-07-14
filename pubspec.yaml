@@ -668,3 +668,8 @@ class _ScanAnimationState extends State<ScanAnimation> with SingleTickerProvider
     );
   }
 }
+firebase_core: ^3.1.1
+firebase_auth: ^5.1.1
+cloud_firestore: ^5.0.2
+firebase_storage: ^12.1.0
+google_sign_in: ^6.2.1
